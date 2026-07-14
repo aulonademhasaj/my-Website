@@ -107,3 +107,14 @@ html, body {
     margin: 20px auto;
     box-shadow: 0 5px 15px rgba (0,0,0,0.15)
 }
+
+.hammie {
+    width: 300px;
+    position: absolute;
+    left: 500px;
+    top: 400px;
+}
+
+.page {
+    position: relative;
+}
